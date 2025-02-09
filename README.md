@@ -16,7 +16,7 @@ I’m looking to collaborate as a data analyst on a project <br>I’m currently 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/Rakeshrk7) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Rakeshrk7?country.x=IN&locale.x=en_GB) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
